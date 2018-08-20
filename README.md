@@ -5,4 +5,4 @@ Code linting is a type of static analysis that is frequently used to find proble
 
 JavaScript, being a dynamic and loosely-typed language, is especially prone to developer error. Without the benefit of a compilation process, JavaScript code is typically executed in order to find syntax or other errors. Linting tools like ESLint allow developers to discover problems with their JavaScript code without executing it.
 
-ESLint provides a nice guardrail while a developer walks on the tight rope that is JavaScript
+ESLint provides a nice guardrail while a developer walks on the tight rope that is JavaScript. It allows the computer to assist the developer in finding errors.

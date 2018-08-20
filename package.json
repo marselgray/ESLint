@@ -4,7 +4,7 @@
   "description": "ESLint is an open source JavaScript linting utility. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn’t adhere to certain style guidelines. There are code linters for most programming languages, and compilers sometimes incorporate linting into the compilation process.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marselgray/ESLint/issues"
   },
-  "homepage": "https://github.com/marselgray/ESLint#readme"
+  "homepage": "https://github.com/marselgray/ESLint#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
 }
